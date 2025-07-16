@@ -1,5 +1,5 @@
 <p>👋 Hi, I’m Nikita</p>
-👀 I’m interested in tech, psychology
-🌱 I’m currently learning Electronics and Communication engineering
-📫 You can reach me through email: nikitahuddar2712@gmail.com
-⚡ Fun fact: Nature enthusiast
+<p>👀 I’m interested in tech, psychology</p>
+<p>🌱 I’m currently learning Electronics and Communication engineering</p>
+<p>📫 You can reach me through email: nikitahuddar2712@gmail.com</p>
+<p>⚡ Fun fact: Nature enthusiast</p>
